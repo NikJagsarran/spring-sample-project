@@ -1,0 +1,6 @@
+Basketball,Sport,true
+Hockey,Sport,true
+Video Games,Media,false
+Netflix,Media,false
+Carpentry,Arts & Craft,false
+Painting,Arts & Craft,false
